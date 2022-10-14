@@ -43,6 +43,6 @@ const menunya = `
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ 🚫📵🚫 ▬▭▬▭▬
 
-© ⏤͟͟͞BOT PRIBADI VIP
+© ⏤͟͟͞BOT PRIBADI BAGAS VIP
 `
 exports.menunya = menunya
